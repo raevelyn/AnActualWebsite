@@ -1,1 +1,2 @@
 # AnActualWebsite
+theme: beautiful-jekyll
