@@ -6,7 +6,8 @@
 </head>
 <body>
   <style>
-    body {background: #D6E6FB;}
+    body {background: #D6E6FB;
+         font-family: 'Lexend Deca', sans-serif}
   </style>
   <style>
     p {font-family: 'Lexend Deca', sans-serif;}
@@ -15,15 +16,18 @@
     p {color: #0C3163;}
   </style>
   <style>
-    h {color: #0C3163;}
+    h {color: #0C3163;
+      font-family: 'Lexed Deca', sans-serif;}
   </style>
   <div class="first-div">
     <style>.first-div {background-color: white;}</style>
+    <center> 
     <h1>A Guide for all Cat Lovers</h1>
     <p>Before moving on, feel free to click an image below to be taken to the haven that is cute cat pictures.</p>
     <a href="https://unsplash.com/images/animals/kitten" target="_blank"><img src="https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/01/striped-grey-kitten.jpg" width=250 /></a>
     <a href="https://unsplash.com/images/animals/kitten" target="_blank"><img src="https://images.unsplash.com/photo-1597626259989-a11e97b7772d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" width=167 /></a>
     <a href="https://unsplash.com/images/animals/kitten" target="_blank"><img src="https://images.unsplash.com/photo-1542736705-53f0131d1e98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTA5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60" width=250 /></a>
+    </center>
     <p> On this page, we will be discussing: </p>
     <ul>
       <li>What a cat is</li>
