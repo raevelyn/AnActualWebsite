@@ -9,6 +9,9 @@
   <style>
     p {font-family: sans-serif;}
   </style>
+  <style>
+    p {color: #0C3163;}
+  </style>
   <h1></h1>
   <p>Before moving on, feel free to click the image below to be taken to the haven that is cute cat pictures.</p>
   <a href="https://unsplash.com/images/animals/kitten" target="_blank"><img src="https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/01/striped-grey-kitten.jpg" width=250 /></a>
