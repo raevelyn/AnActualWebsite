@@ -26,9 +26,9 @@
   <p></p>
   <h2>Why should you get a cat?</h2> 
   <p>They're cute.</p>
-  <p>And you'll learn to like the claw marks on your furniture.</p>
+  <p>And maybe you'll learn to like the claw marks on your furniture.</p>
   <h2>Communicating with cats</h2>
-  <p><em>Meow</em> (noun) is the predominant sound used in the preferred language of the cat species. This can be used to express an extensive variety of emotions and thoughts. (ie: "Feed me treats," "I'm angry with you," "I'm dissapointed with you," "I'm looking down on you," "I've decided to interupt whatever you're doing by clawing at your door," "I'M AWAKE AT 3AM SO YOU ARE TOO," etc.)</p>
-  <p></p>
+  <p>A <em>meow</em> (noun) is the predominant sound used in the preferred language of the cat species. This can be used to express an extensive variety of emotions and thoughts. (ie: "Feed me treats," "I'm angry with you," "I'm dissapointed with you," "I'm looking down on you," "I've decided to interupt whatever you're doing by clawing at your door," "I'M AWAKE AT 3AM SO YOU ARE TOO," etc.)</p>
+  <p>Learn what your cat is telling you and you may have a chance of them tolerating you slightly more.</p>
 </body>
 </html>
