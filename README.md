@@ -7,21 +7,33 @@
 <body>
   <style>
     body {background: #D6E6FB;
-         font-family: 'Lexend-Deca';}
+         font-family: "Lexend-Deca", serif;}
   </style>
+  
   <style>
-    p {font-family: 'Lexend Deca, sans-serif';}
+    p {font-family: "Lexend Deca", serif'; 
+       color: #0C3163;
+      font-size: "20"; }
   </style>
+  
+  <style>
+    ul {font-family: "Lexend Deca", serif'; 
+       color: #0C3163;
+      font-size: "20"; }
+  </style>
+  
   <style>
     p {color: #0C3163;}
   </style>
+  
   <style>
     h1 {color: "blue";
-      font-family: "sans-serif";}
+      font-family: "Copperplate", fantasy;}
   </style>
+  
   <style>
-    h2 {color: "blue";
-      font-family: sans-serif;}
+    h2 {color: #0C3163;
+      font-family: serif;}
   </style>
   
   <div class="first-div">
@@ -34,22 +46,29 @@
     <a href="https://unsplash.com/images/animals/kitten" target="_blank"><img src="https://images.unsplash.com/photo-1542736705-53f0131d1e98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTA5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60" width=250 /></a>
     </center>
   </div>
+  <div>
     <h1>Overview</h1>
-    <p>I belive that everyone deserves to have some cat content in their lives, and so, I will be providing some.</p>
+    <p>I believe that everyone deserves to have some cat content in their lives. So I will be briefly providing some.</p>
     <p> On this page, we will be discussing: </p>
     <ul>
       <li>What a cat is</li>
       <li>Why you should get a cat</li>
       <li>Communicating with cats</li>
-      <li>Other Information</li>
     </ul>
-  <h2>So, what exactly is a cat?</h2>
-  <p>Researching the breeds only gives you a false sense of knowledge of what your cat will be like.</p>
+  </div>
+  
+  <div>
+    <h2>So, what exactly is a cat?</h2>
+    <p>Researching the breeds only gives you a false sense of knowledge of what your cat will be like.</p>
+  </div>
+  
   <h2>Why should you get a cat?</h2> 
-  <p>They're <span style='font-size 20px'>cute</span>.</p>
+  <p>They're cute.</p>
   <p>And maybe you'll learn to like the claw marks on your furniture.</p>
+  
   <h2>Communicating with cats</h2>
   <p>A <em>meow</em> (noun) is the predominant sound used in the preferred language of the cat species. This can be used to express an extensive variety of emotions and thoughts. (ie: "Feed me treats," "I'm angry with you," "I'm dissapointed with you," "I'm looking down on you," "I've decided to interupt whatever you're doing by clawing at your door," "I'M AWAKE AT 3AM SO YOU ARE TOO," etc.)</p>
   <p>Learn what your cat is telling you and you may have a chance of them tolerating you <strong>slightly</strong> more.</p>
+  
 </body>
 </html>
