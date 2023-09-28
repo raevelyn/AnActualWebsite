@@ -62,7 +62,7 @@
   
   <div>
     <h2>So, what exactly is a cat?</h2>
-    <p>In the most basic terms, these (typically) furry and adorable felines are amazing pets, and may otherwise be seen roaming the streets. Each cat is very different; researching breeds can only go so far in determining what your cat will be like. It may be the type to ruthlessly knock your most prized possessions onto the floor, never giving it a second thought. But it could also be the type to come lay next to you and give you all the emotional support you need as you go through your day. Will you be one of the lucky few who find themselves a cuddly cat that enjoys their presence?</p>
+    <p>In the most basic terms, these (typically) furry and adorable felines are amazing pets, and may otherwise be seen roaming around in the streets. Each cat is very different; researching breeds can only go so far in determining what your cat will be like. It may be the type to ruthlessly knock your most prized possessions onto the floor, never giving it a second thought... But it could also be the type to come lay next to you and give you all the emotional support you need as you go throughout your day. Will you be one of the lucky few who find themselves a cuddly cat that enjoys your presence?</p>
     <p>Ultimately, it's hard to say.</p>
   </div>
   
@@ -83,7 +83,7 @@
     <center> 
     <p>That is all of the content that is here for now. Take a look at a few more pictures before you go.</p>
     <img src="https://images.unsplash.com/photo-1591871937631-2f64059d234f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" width=250 />
-    <img src="https://images.unsplash.com/photo-1619682488107-c0791e9be98d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mzl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" width=300 /> 
+    <img src="https://images.unsplash.com/photo-1619682488107-c0791e9be98d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mzl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" width=297 /> 
     <img src="https://media.istockphoto.com/id/1302273926/photo/two-little-striped-playful-kittens-playing-together-on-bed-at-home-looking-into-the-camera.webp?s=170667a&w=0&k=20&c=Sa3skccSJzPXo1NQnvcWgHYUny_4jZHWxnJM2Q4RFlA=" width=250 />
     </center>
   </div>
